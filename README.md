@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=renatoft89&show_icons=true)](https://github.com/renatoft89)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoft89)](https://github.com/renatoft89/github-readme-stats)
 
 <!--
 **renatoft89/renatoft89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
