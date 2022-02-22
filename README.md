@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=renatoft89
 
 <!--
 **renatoft89/renatoft89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
