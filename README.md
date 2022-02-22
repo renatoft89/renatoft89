@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![age](https://img.shields.io/badge/age-32-blue)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoft89)](https://github.com/renatoft89/github-readme-stats)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/renatoft89/renatoft89/master/wave.gif" width="30px">
+
 
 <!--
 **renatoft89/renatoft89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
