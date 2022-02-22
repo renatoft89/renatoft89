@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![age](https://img.shields.io/badge/age-32-blue)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoft89)](https://github.com/renatoft89/github-readme-stats)
 
 <!--
