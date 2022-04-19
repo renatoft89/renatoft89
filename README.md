@@ -1,4 +1,4 @@
-### Eai Pessoal! 👋
+### E aí Pessoal! 👋
 
 Meu nome é Renato Alves e eu sou desenvolvedor Front-End. Sou de Campinas - SP, atualmente estou cursando o módulo Back-end na Trybe. Você pode me encontrar em [![LinkedIn][3.2]][3]
 
