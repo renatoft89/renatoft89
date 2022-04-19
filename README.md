@@ -5,10 +5,10 @@ Meu nome é Renato Alves e eu sou desenvolvedor Front-End. Sou de Campinas - SP,
 ## &#x1f4c8; Estatísticas do GitHub
 
 <a href="https://github.com/renatoft89/renatoft89">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoft89&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoft89&theme=react" />
 </a>
 <a href="https://github.com/renatoft89/renatoft89">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renatoft89&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Renato's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renatoft89&theme=react&show_icons=true&line_height=27&count_private=true" alt="Renato's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
