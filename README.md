@@ -2,7 +2,7 @@
 
 Meu nome é Renato Alves e eu sou desenvolvedor Front-End. Sou de Campinas - SP, atualmente estou cursando o módulo Back-end na Trybe. Você pode me encontrar em [![LinkedIn][3.2]][3]
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Estatísticas do GitHub
 
 <a href="https://github.com/renatoft89/renatoft89">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoft89&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
