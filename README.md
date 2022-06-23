@@ -1,6 +1,6 @@
 ### E aí Pessoal! 👋
 
-Meu nome é Renato Alves e eu sou desenvolvedor Full-Stack. Sou de Campinas - SP, atualmente estou cursando o módulo Back-end na Trybe. Você pode me encontrar em [![LinkedIn][3.2]][3]
+Meu nome é Renato sou desenvolvedor Full-Stack. Sou de Campinas - SP, atualmente estou cursando o módulo Back-end na Trybe. Você pode me encontrar em [![LinkedIn][3.2]][3]
 
 ## &#x1f4c8; Estatísticas do GitHub
 
