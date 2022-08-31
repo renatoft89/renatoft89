@@ -3,7 +3,11 @@
 Meu nome é Renato sou desenvolvedor Full-Stack. Sou de Campinas - SP, atualmente estou cursando o módulo Back-end na Trybe. Você pode me encontrar em [![LinkedIn][3.2]][3]
 
 ## &#x1f4c8; Estatísticas do GitHub
-
+<div>
+  <a href="https://github.com/renatoft89">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renatoft89&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoft89&layout=compact&langs_count=7&theme=solarized-dark"/>
+</div>
 <a href="https://github.com/renatoft89/renatoft89">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoft89&theme=react" />
 </a>
