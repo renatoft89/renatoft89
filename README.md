@@ -5,7 +5,7 @@ Meu nome é Renato sou desenvolvedor Full-Stack. Sou de Campinas - SP, atualment
 <!-- links contato -->
 <p align="left">  📲:  Contato:
 
-[![Linkedin Badge](https://img.shields.io/badge/-renatoft89-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatoalves1989/)](https://www.linkedin.com/in/renatoalves1989/) 
+[![Linkedin Badge](https://img.shields.io/badge/-RenatoAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatoalves1989/)](https://www.linkedin.com/in/renatoalves1989/) 
 [![Gmail Badge](https://img.shields.io/badge/-renatoft89@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatoft89@gmail.com)](mailto:renatoft89@gmail.com)
 </p>
 
