@@ -1,6 +1,6 @@
-### E aí Pessoal! 👋
+### 👋
 
-Meu nome é Renato sou desenvolvedor Full-Stack. Sou de Campinas - SP, atualmente estou cursando o módulo Back-end na Trybe.
+Meu nome é Renato sou desenvolvedor Full-Stack. Sou de Campinas - SP, atualmente estou cursando Módulo: Ciência da Computação na Trybe.
 
 <!-- links contato -->
 <p align="left">  📲:  Contato:
