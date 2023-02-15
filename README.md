@@ -14,7 +14,6 @@ Meu nome é Renato sou desenvolvedor Full-Stack. Sou de Campinas - SP, atualment
 
 <br/>  
 
-## Languages and Tools  
 <div align="center">  
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" target="_blank"><img style="margin: 10px" src="./img/html-5-svgrepo-com.svg" alt="HTML5" height="50" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="./img//css3-logo-svgrepo-com.svg" alt="CSS3" height="50" /></a>
