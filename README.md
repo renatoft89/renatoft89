@@ -16,17 +16,17 @@ Meu nome é Renato sou desenvolvedor Full-Stack. Sou de Campinas - SP, atualment
 
 ## Languages and Tools  
 <div align="center">  
-<a href="" target="_blank"><img style="margin: 10px" src="./img/html-5-svgrepo-com.svg" alt="HTML5" height="50" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="./img//css3-logo-svgrepo-com.svg" alt="CSS3" height="50" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="./img/js-svgrepo-com.svg" alt="JavaScript" height="50" /></a>  
-<a href="" target="_blank"><img style="margin: 10px" src="./img/reactjs-svgrepo-com.svg" alt="React" height="50" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="./img//nodejs-1-logo-svgrepo-com.svg" alt="Nodejs" height="50" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="./img//mysql-svgrepo-com.svg" alt="MySql" height="50" /></a>
-
-<a href="" target="_blank"><img style="margin: 10px" src="./img/mongodb-logo-svgrepo-com.svg" height="50" /></a>  
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" target="_blank"><img style="margin: 10px" src="./img/html-5-svgrepo-com.svg" alt="HTML5" height="50" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="./img//css3-logo-svgrepo-com.svg" alt="CSS3" height="50" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="./img/js-svgrepo-com.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./img/reactjs-svgrepo-com.svg" alt="React" height="50" /></a>
+<a href="https://nodejs.org/pt-br/" target="_blank"><img style="margin: 10px" src="./img//nodejs-1-logo-svgrepo-com.svg" alt="Nodejs" height="50" /></a>
+<a href="https://dev.mysql.com/doc/" target="_blank"><img style="margin: 10px" src="./img//mysql-svgrepo-com.svg" alt="MySQL" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./img/mongodb-logo-svgrepo-com.svg" alt="MongoDB"height="50" /></a>  
 
 </div>  
 <br/>
+
 ## &#x1f4c8; Estatísticas do GitHub
 
 <div>
