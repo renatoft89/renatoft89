@@ -1,6 +1,6 @@
-### 👋
+### 👋 E ai blz ?
 
-Meu nome é Renato sou desenvolvedor Full-Stack. Sou de Campinas - SP, atualmente estou cursando Módulo: Ciência da Computação na Trybe.
+Sou um entusiasta da tecnologia e um grande fã de futebol. Me formei em Análise e Desenvolvimento de Sistemas em 2019 e desde então venho buscando evoluir constantemente na minha carreira. Recentemente, concluí a formação de desenvolvedor Full Stack na Trybe, onde adquiri experiência em diversas ferramentas, como HTML5, CSS3, JavaScript, Reactjs, Nodejs e banco de dados.
 
 <!-- links contato -->
 <p align="left">  📲:  Contato:
