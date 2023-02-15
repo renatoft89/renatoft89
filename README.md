@@ -9,6 +9,24 @@ Meu nome é Renato sou desenvolvedor Full-Stack. Sou de Campinas - SP, atualment
 [![Gmail Badge](https://img.shields.io/badge/-renatoft89@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatoft89@gmail.com)](mailto:renatoft89@gmail.com)
 </p>
 
+<!-- Seção Tecnlogias  -->
+## Ferramentas e Tecnologias   
+
+<br/>  
+
+## Languages and Tools  
+<div align="center">  
+<a href="" target="_blank"><img style="margin: 10px" src="./img/html-5-svgrepo-com.svg" alt="HTML5" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="./img//css3-logo-svgrepo-com.svg" alt="CSS3" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="./img/js-svgrepo-com.svg" alt="JavaScript" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="./img/reactjs-svgrepo-com.svg" alt="React" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="./img//nodejs-1-logo-svgrepo-com.svg" alt="Nodejs" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="./img//mysql-svgrepo-com.svg" alt="MySql" height="50" /></a>
+
+<a href="" target="_blank"><img style="margin: 10px" src="./img/mongodb-logo-svgrepo-com.svg" height="50" /></a>  
+
+</div>  
+<br/>
 ## &#x1f4c8; Estatísticas do GitHub
 
 <div>
