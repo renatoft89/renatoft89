@@ -28,12 +28,12 @@ Sou um entusiasta da tecnologia e um grande fã de futebol. Me formei em Anális
 
 ## &#x1f4c8; Estatísticas do GitHub
 
-<div>
+<div max-width="800px">
   <a href="https://github.com/renatoft89/renatoft89">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoft89&theme=react" />
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoft89&theme=react" />
 </a>
 <a href="https://github.com/renatoft89/renatoft89">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=renatoft89&theme=react&show_icons=true&line_height=27&count_private=true" alt="Renato's GitHub Stats" />
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=renatoft89&theme=react&show_icons=true&line_height=27&count_private=true" alt="Renato's GitHub Stats" />
 </a>
 </div>
 <br />
