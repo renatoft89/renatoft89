@@ -27,20 +27,30 @@ Sou um entusiasta da tecnologia e um grande fã de futebol. Me formei em Anális
 <br/>
 
 ## &#x1f4c8; Estatísticas do GitHub
+<div style="max-width: 800px; margin: auto;">
 
-<div max-width="800px">
-  <a href="https://github.com/renatoft89/renatoft89">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoft89&theme=react" />
-</a>
-<a href="https://github.com/renatoft89/renatoft89">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=renatoft89&theme=react&show_icons=true&line_height=27&count_private=true" alt="Renato's GitHub Stats" />
-</a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/renatoft89/renatoft89">
+          <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoft89&theme=react" alt="Linguagens mais usadas" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/renatoft89/renatoft89">
+          <img height="300em" src="https://github-readme-stats.vercel.app/api?username=renatoft89&theme=react&show_icons=true&line_height=27&count_private=true" alt="Estatísticas do GitHub do Renato" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
-<br />
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=renatoft89&label=Profile%20views&color=blue&style=plastic" alt="renatoft89" />
-</p>
 
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=renatoft89&label=Visualizações%20do%20perfil&color=blue&style=plastic" alt="renatoft89" />
+</p>
 
 
 <!-- icons without padding -->
